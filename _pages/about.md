@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D student at [UFMS](https://ufms.br), Brazil, working with [Ronaldo A. Ferreira](https://facom.ufms.br/~raf) on Computer Networks and Distributed Systems. Also, I am a lecture at the College of Engineering at [UFMT](https://ufmt.br), Brazil.
+I am currently a Ph.D. student at [UFMS](https://ufms.br), Brazil, working with [Ronaldo A. Ferreira](https://facom.ufms.br/~raf) on Computer Networks and Distributed Systems. Also, I am a lecture at the College of Engineering at [UFMT](https://ufmt.br), Brazil.
 
 I received the B.Sc. and M.S. degrees from UFMS in 2011 and 2014, respectively. 
 
